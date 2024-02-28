@@ -1,1 +1,1 @@
-"# SQL-ObraSocial" 
+Estoy creando una base de datos dedicada en una obra social porque me parece que es complejo y me gustaria abarcar todas las zonas que son de la obra social, ademas soy Programador y tengo pensado crearle un aplicacion con un stack tambien complejo ya que me gustan los retos.
